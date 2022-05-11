@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.exe
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.deps.json
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.dll
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\bin\Debug\netcoreapp3.1\P324_Collections.pdb
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.dll
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.pdb
+C:\Users\Lenovo\source\repos\P324_Collections\P324_Collections\obj\Debug\netcoreapp3.1\P324_Collections.genruntimeconfig.cache
